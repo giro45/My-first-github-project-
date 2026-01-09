@@ -1,0 +1,6 @@
+Order_ID,Product,Category,Quantity,Price,Sales
+1,Laptop,Electronics,2,50000,100000
+2,Phone,Electronics,3,20000,60000
+3,Table,Furniture,1,15000,15000
+4,Chair,Furniture,4,5000,20000
+5,Headphones,Electronics,5,2000,10000

@@ -1,21 +1,18 @@
-# My-first-github-project-
-# Student Performance Analysis
+# Sales Data Analysis Project 📊
 
-## Objective
-This project analyzes student performance data using Python.
+This is my first data analysis project created on GitHub.
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+## Project Overview
+The project analyzes sales data to understand product performance and revenue trends.
 
-## Description
-The dataset contains student marks, attendance, and gender.
-Basic data analysis and visualization are performed.
+## Files in this Repository
+- sales_data.csv → Sales dataset
+- analysis.md → Analysis explanation
 
-## Files
-- analysis.ipynb : Data analysis notebook
-- data/students.csv : Dataset file
+## Skills Used
+- Data understanding
+- Basic data analysis concepts
+- GitHub documentation
 
 ## Author
 Girija Tavate
